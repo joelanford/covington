@@ -1,0 +1,14 @@
+schema: olm.channel
+package: foo
+name: alpha
+versions:
+  - 0.1.0
+  - 0.1.1
+  - 0.2.0
+  - 0.2.1
+  - 0.2.2
+  - 1.0.0
+tombstones:
+  - 0.1.0
+  - 0.2.0
+  - 0.2.1
